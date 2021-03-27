@@ -1,10 +1,11 @@
-# Template FrutaEFruto
-Projeto 100% responsivo
+## Template FrutaEFruto
+100% responsive 
+Atomic design
+BEM Methodology
+CSS organization
+good CSS practices
+
+[![Video Explicando sobre o tema BEM do CSS.](http://img.youtube.com/vi/rltjnLyjFZk/0.jpg)](http://www.youtube.com/watch?v=rltjnLyjFZk "Video de Introdução ao BEM")
 
 
-# Arquitetura-css
-Curso de arquitetura de css 
-
-Atomic design 
-Metodologia BEM 
-Organização do CSS
+![logo](https://github.com/kauanEng/FrutaEFruto/blob/main/logo.png)
