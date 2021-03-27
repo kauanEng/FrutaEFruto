@@ -1,5 +1,6 @@
-# arquitetura-css
-curso de arquitetura de css
+# Arquitetura-css
+Curso de arquitetura de css
 
-Atomic design -
-Metodologia BEM -
+Atomic design 
+Metodologia BEM 
+Organização do CSS
